@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PrekoReke.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrekoRekeDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Strukture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PrekoReke.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrekoRekeDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PrekoReke.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\PrekoReke.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\PrekoReke.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\truckR.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\truckL.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\stone.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Drag1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\drag2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\drag3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\drag4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap8.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\PPReke\PPReke\res\stone.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\PPReke\PPReke\res\a-turkey-above-a-floating-trunk-at-the-river-vector-1207495.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\PPReke\PPReke\res\b571d0d246530738b1c8bd213204edd1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\b571d0d246530738b1c8bd213204edd1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\color-me-happy-game-over-white_a-G-15238163-0.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\12849-key.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\gold-key-md.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\cartoon-river-crocodile-vector-1182262.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\a-turkey-above-a-floating-trunk-at-the-river-vector-1207495.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap11.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\59144734_834038386964177_331893232726179840_n.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\card-template-with-fireworks-party-horns_1308-3021.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\_22289-264.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Untitled.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Untitled-1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\1200px-Zéro.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Un1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\120px-Deux.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap20.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\8.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\9.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\TRENUTNO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap27.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\REKORD.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Novi.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\background-design-trends.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\background.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
